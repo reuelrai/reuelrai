@@ -7,9 +7,9 @@
 - ⚡ Fun fact: ...
 - ## My Journey
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=reuelrai&show_icons=true&theme=onedark">
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=reuelrai&show_icons=true&theme=onedark">
   <img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=reuelrai&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=reuelrai&theme=github">
+  <img width="420x" src="https://github-readme-activity-graph.vercel.app/graph?username=reuelrai&theme=github">
   <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=reuelrai&theme=onedark" />
 </div>
 
