@@ -6,7 +6,7 @@
 </div>
 <div>
   
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=reuelrai&theme=github">
+  
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=reuelrai&theme=onedark" />
 </div>
 
