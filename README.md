@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @reuelrai
-
-- ## My Journey
+- 👋 Hi, I’m Reuel...
 <div>
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelrai&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00"/>
-</div>
-<div>
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=reuelrai&theme=onedark" />
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelrai&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00"/> <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=reuelrai&theme=onedark" />
 </div>
 
-## Feeding...
+## Feeding green boxes...
 ![Snake animation](https://raw.githubusercontent.com/reuelrai/reuelrai/output/github-contribution-grid-snake-dark.svg)
 - ![](https://komarev.com/ghpvc/?username=your-github-reuelrai&abbreviated=true)
 
