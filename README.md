@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reuel...
 <div>
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelrai&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00"/>
-<img width="480px" src="https://github-readme-streak-stats.herokuapp.com/?user=reuelrai&theme=onedark" />
+![](https://activity-graph.herokuapp.com/graph?username=blackkspydo&theme=redical&bg_color=ffffff00&color=38BDAD&title_color=72A6FD)
 </div>
 
 ## Feeding green boxes...
