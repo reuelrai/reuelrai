@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reuel...
 <div>
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelrai&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00"/>
-  <img width="400px" src="[https://activity-graph.herokuapp.com/graph?username=reuelrai&theme=redical&bg_color=ffffff00&color=38BDAD&title_color=72A6FD](https://github-readme-stats.vercel.app/api?username=blackkspydo&&show_icons=true&count_private=true&title_color=72A6FD&icon_color=bb2acf&text_color=38BDAD&bg_color=FFFFFF00)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackkspydo&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00)"
+<img width="480px" src="https://github-readme-streak-stats.herokuapp.com/?user=reuelrai&theme=onedark" />
 </div>
 
 ## Feeding green boxes...
