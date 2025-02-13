@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reuel...
 <div>
 <img width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelrai&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reuelrai&theme=dark&background=45%2C4E4E4E%2C000000" alt="reuel-github-streaks" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=euelrai&theme=dark&background=45%2C4E4E4E%2C000000" alt="reuel-github-streaks" />
 </div>
 
 
