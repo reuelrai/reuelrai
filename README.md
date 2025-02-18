@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Reuel...
 <div>
   <img width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelrai&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=reuelrai" alt="GitHub Streak" /></a>
 </div>
 
-]![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 
 ## Feeding green boxes...
