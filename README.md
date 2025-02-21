@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Reuel...
 <div>
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelrai&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00"/>
-  
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=reuelrai&theme=dark)](https://git.io/streak-stats) 
+  <img width="480px" src="https://nirzak-streak-stats.vercel.app?user=reuelrai&theme=dark"/>
 </div>
 
 
