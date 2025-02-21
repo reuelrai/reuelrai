@@ -2,7 +2,7 @@
 <div>
 <div>
   <img width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelrai&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00"/>
-<img src="https://streak-stats.demolab.com?user=reuelrai&theme=dark" alt="GitHub Streak"/>
+
 </div>
 </div>
 
