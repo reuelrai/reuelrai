@@ -1,11 +1,4 @@
 - 👋 Hi, I’m Reuel...
-<div>
-
-  <img width="480px" src="https://nirzak-streak-stats.vercel.app?user=reuelrai&theme=dark"/>
-</div>
-
-
-
 ## Feeding green boxes...
 ![Snake animation](https://raw.githubusercontent.com/reuelrai/reuelrai/output/github-contribution-grid-snake-dark.svg)
 - ![](https://komarev.com/ghpvc/?username=your-github-reuelrai)
